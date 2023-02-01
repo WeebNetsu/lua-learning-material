@@ -1,0 +1,18 @@
+2. Printing and Comments
+3. Variables and basic data types
+5. Math
+4. Strings
+7. If Statements
+8. Loops
+10. User input
+11. Tables (arrays)
+12. Pairs & iPairs
+6. Functions
+18. Co-routines
+17. select [Decided againt tutorial]
+9. Working With Files
+13. The OS Library
+14. Modules
+15. OOP
+16. Metamethods
+Where to go from here (only appear in crash course)
